@@ -108,7 +108,7 @@ const About = memo(function About({ isDark }) {
                 className="mt-6 flex flex-wrap justify-center md:justify-start gap-3 text-lg"
               >
                 <a
-                  href="https://github.com/Harsh77-prog"
+                  href="https://github.com/Harsh675106"
                   target="_blank"
                   rel="noreferrer"
                   className="fx-button"

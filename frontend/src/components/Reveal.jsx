@@ -113,8 +113,6 @@ export const RevealGroup = memo(function RevealGroup({
   className = "",
   delay = 0,
   stagger = 0.12,
-  once = true,
-  amount = 0.25,
   children,
   ...rest
 }) {
@@ -168,8 +166,7 @@ const Reveal = memo(function Reveal({
   direction = "up",
   distance = DEFAULT_DISTANCE,
   variant = "soft",
-  once = true,
-  amount = 0.25,
+
   children,
   ...rest
 }) {

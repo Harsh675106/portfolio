@@ -39,6 +39,14 @@ const PROJECTS = [
     stack: ["React", "NewsAPI", "Node"],
   },
   {
+    name: "Shatranj",
+    desc: "Single-player chess game with AI (Minimax).",
+    status: "Completed",
+    link: "https://github.com/Harsh675106/Shatranj",
+    imgBase: "/shatranj",
+    stack: ["Flutter", "Dart", "Minimax"],
+  },
+  {
     name: "FinanceIQ",
     desc: "Create and track your financial journey with intelligent analytics",
     status: "Completed",
